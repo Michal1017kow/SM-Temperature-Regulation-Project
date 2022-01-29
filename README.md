@@ -1,1 +1,0 @@
-# SM-Temperature-Regulation-Project
